@@ -1,4 +1,4 @@
-README
+#README
 Proje Adı: Sayı Filtreleme Uygulaması
 Genel Bakış
 Bu konsol uygulaması, bir tamsayı listesini belirli kriterlere göre filtreler ve işler. Uygulama, LINQ yöntemlerini (Where) kullanarak filtreleme işlemlerini gerçekleştirir ve koleksiyonlar üzerinde temel işlemleri gösterir. C#'ta LINQ ve koleksiyon işlemlerini öğrenmek isteyenler için uygun bir örnektir.
